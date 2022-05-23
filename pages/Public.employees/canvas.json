@@ -1381,8 +1381,8 @@
                 }
               ],
               "widgetId": "m7dvlazbn7",
-              "topRow": 0,
-              "bottomRow": 46,
+              "topRow": 1,
+              "bottomRow": 47,
               "parentRowSpace": 10,
               "isVisible": "{{!!Table1.selectedRow.employee_id}}",
               "type": "FORM_WIDGET",
